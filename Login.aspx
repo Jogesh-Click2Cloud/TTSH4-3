@@ -97,7 +97,7 @@
                     <div class="col-md-6">
                         <h4>Click2Cloud Inc &amp; Innovation (CRIO) Database System</h4>
                         <p>Website: http://www.ttsh.com.sg  Phone: (65) 6357 8898/9  Fax: (65) 6251 4095</p>
-                        <p>11 Jalan Tan Tock Seng, Singapore 308433</p>
+                        <p>STPI Building #3,VNIT Telephone Exchange Nagpur, 308433</p>
                     </div>
                     <div class="col-md-6 align-right">
                         <h4>A Product of Click2Cloud Inc.</h4>
