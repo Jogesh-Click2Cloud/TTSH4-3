@@ -100,7 +100,7 @@
                         <p>STPI Building #3,VNIT Telephone Exchange Nagpur, 308433</p>
                     </div>
                     <div class="col-md-6 align-right">
-                        <h4>A Product of Click2Cloud Inc.</h4>
+                        <h4>A Product of Click2Cloud Inc. 2016</h4>
                         <p>Copyright &copy; 2014 Click2Cloud Inc., Nagpur</p>
                     </div>
                 </div>
